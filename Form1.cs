@@ -16,5 +16,15 @@ namespace oopBlackjack
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Clubs2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

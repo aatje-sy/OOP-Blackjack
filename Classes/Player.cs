@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace oopBlackjack.Classes
 {
     class Player
-    {
+        
+        private string name;
+        private float Balance;
     }
 }

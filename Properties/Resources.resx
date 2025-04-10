@@ -118,158 +118,320 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Clubs10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_10.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="ClubsAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DiamondQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SpadesAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_10.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DiamondJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SpadesQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ClubsKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ClubsQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Clubs2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\white_c_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     <comment>clubs 2</comment>
   </data>
-  <data name="Clubs3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Clubs9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ClubsQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ClubsJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ClubsKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ClubsAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_c_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DiamondAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Diamond9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DiamondJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DiamondKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DiamondQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_d_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Spades9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="SpadesAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="SpadesJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="SpadesKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Hearts10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_10.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="HeartsKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="HeartsAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\white_h_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="HeartsJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Diamond7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="HeartsKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_h_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="ClubsJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SpadesJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="HeartsQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\white_h_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="SpadesQueen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white_s_q.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Spades3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DiamondKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Hearts8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_3.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HeartsJack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_j.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DiamondAce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_a.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Diamonds10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\white_d_10.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SpadesKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_k.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_8.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_4.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_6.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_9.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Diamond5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_5.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Spades7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_7.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clubs10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_10.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="white_c_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_81.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_k" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_k1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_q1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_81.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_91.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_j1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_k" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_k1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_q1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_81.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_j1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_q1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_jk_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_jk_b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_jk_r" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_jk_r.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_j1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_q1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_91.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_d_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_d_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_91.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_h_k" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_h_k1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_81.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_91.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_s_k" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_s_k1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white_c_j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white_c_j1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
