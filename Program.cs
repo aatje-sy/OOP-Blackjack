@@ -12,7 +12,10 @@ namespace oopBlackjack
         static void Main()
         {
             Deck deck = new Deck();
-            Console.ReadLine();
+            Player speler = new Player();
+
+            
+
 
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());

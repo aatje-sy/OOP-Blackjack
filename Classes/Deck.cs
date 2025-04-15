@@ -30,24 +30,47 @@ namespace oopBlackjack.Classes
             }
         }
 
-       
+
 
 
         public void shuffleCards()
         {
+            if (Cards.Count == 0)
+            {
+                foreach (CardSuit suit in Enum.GetValues(typeof(CardSuit)))
+                {
+                    foreach (CardValue value in Enum.GetValues(typeof(CardValue)))
+                    {
+                        Cards.Add(new Card(suit, value));
+
+                    }
+
+                }
+            }
+
+            Random rand = new Random();
+
+            for (int i = 0; i < Cards.Count; i++)
+            {
+                
             
+
+            }
         }
 
 
-        public void dealCard()
+        public Card dealCard()
         {
             if(Cards.Count == 0)
             {
                 Console.WriteLine("Deck is empty");
+                return null;
             }
 
             Card ToDealCard = Cards[0];
             Cards.Remove(ToDealCard);
+
+            return ToDealCard;
         }
 
 
