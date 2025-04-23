@@ -10,8 +10,6 @@ namespace oopBlackjack.Classes
     class Deck
     {
         List<Card> Cards = new List<Card>();
-        
-
 
         public Deck()
         {
@@ -50,9 +48,13 @@ namespace oopBlackjack.Classes
 
             Random rand = new Random();
 
-            for (int i = 0; i < Cards.Count; i++)
+            for (int i = Cards.Count - 1; i > 0; --i)
             {
-                
+                int x = rand.Next(i + 1);
+
+                Card y = Cards[i];
+                Cards[i] = Cards[x];
+                Cards[x] = y;
             
 
             }

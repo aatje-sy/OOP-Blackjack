@@ -8,5 +8,15 @@ namespace oopBlackjack.Classes
 {
     class Game
     {
+
+        public Deck deck;
+
+        public Game()
+        {
+
+            deck = new Deck();
+        }
+
     }
+
 }
